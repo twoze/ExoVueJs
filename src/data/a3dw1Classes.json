@@ -1,0 +1,45 @@
+{
+  "name": "PSG",
+  "classes": [
+    {
+      "number": "1",
+      "name": "PHP",
+      "classDate": "15/12/86",
+      "teacher": "Mr Escobar",
+      "delay": "Présent",
+      "photo": "navas.jpg"
+    },
+    {
+      "number": "5",
+      "name": "Javascript",
+      "classDate": "14/05/94",
+      "teacher": "Mr Delarue",
+      "delay": "Présent",
+      "photo": "navas.jpg"
+    },
+    {
+      "number": "11",
+      "name": "Soft Skills",
+      "classDate": "14/02/88",
+      "teacher": "Ms Angelina",
+      "delay": "Absent",
+      "photo": "navas.jpg"
+    },
+    {
+      "number": "7",
+      "name": "VueJs",
+      "classDate": "20/12/1998",
+      "teacher": "Ms Delphine",
+      "delay": "En retard",
+      "photo": "navas.jpg"
+    },
+    {
+      "number": "10",
+      "name": "Sport",
+      "classDate": "05/02/92",
+      "teacher": "Mr Strong",
+      "delay": "Présent",
+      "photo": "navas.jpg"
+    }
+  ]
+}
